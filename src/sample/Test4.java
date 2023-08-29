@@ -1,9 +1,12 @@
 package sample;
 
-public class test2 
+public class Test4 
 {
 	public static void main(String[] args) {
+		 System.out.println("class test4");
 		
-		System.out.println("hi gm");	
+		
+		
 	}
+
 }
